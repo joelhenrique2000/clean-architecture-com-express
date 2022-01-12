@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joelhenrique2000/clean-architecture-com-express/issues"
   },
-  "homepage": "https://github.com/joelhenrique2000/clean-architecture-com-express#readme"
+  "homepage": "https://github.com/joelhenrique2000/clean-architecture-com-express#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.3.3"
+  }
 }
